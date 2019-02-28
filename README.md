@@ -1,4 +1,4 @@
-###Enigma machine in python
+### Enigma machine in python
 
 This program will take an input text from a sender (Alice) and encrypt it, Alice has to choose the position of the three rotors between “A”, “B" and “C”. If the receiver (Bob) chooses the same options for the program, it will output the decrypted message. You can encrypt alphabetical characters, spaces, comas and dots.  
 
